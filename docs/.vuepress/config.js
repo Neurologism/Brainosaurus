@@ -5,8 +5,8 @@ import { viteBundler } from '@vuepress/bundler-vite'
 export default defineUserConfig({
   lang: 'en-US',
 
-  title: 'VuePress',
-  description: 'My first VuePress Site',
+  title: 'Brainet',
+  description: 'The Simple AI Learning Platform',
 
   theme: defaultTheme({
     logo: 'https://vuejs.press/images/hero.png',
